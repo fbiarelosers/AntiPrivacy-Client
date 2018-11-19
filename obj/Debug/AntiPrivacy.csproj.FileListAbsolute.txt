@@ -1,0 +1,14 @@
+C:\Users\Damian\Documents\Visual Studio\AntiPrivacy\AntiPrivacy\bin\Debug\AntiPrivacy.exe.config
+C:\Users\Damian\Documents\Visual Studio\AntiPrivacy\AntiPrivacy\bin\Debug\AntiPrivacy.exe
+C:\Users\Damian\Documents\Visual Studio\AntiPrivacy\AntiPrivacy\bin\Debug\AntiPrivacy.pdb
+C:\Users\Damian\Documents\Visual Studio\AntiPrivacy\AntiPrivacy\bin\Debug\MetroFramework.Design.dll
+C:\Users\Damian\Documents\Visual Studio\AntiPrivacy\AntiPrivacy\bin\Debug\MetroFramework.dll
+C:\Users\Damian\Documents\Visual Studio\AntiPrivacy\AntiPrivacy\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Damian\Documents\Visual Studio\AntiPrivacy\AntiPrivacy\obj\Debug\AntiPrivacy.csprojAssemblyReference.cache
+C:\Users\Damian\Documents\Visual Studio\AntiPrivacy\AntiPrivacy\obj\Debug\AntiPrivacy.Properties.Resources.resources
+C:\Users\Damian\Documents\Visual Studio\AntiPrivacy\AntiPrivacy\obj\Debug\AntiPrivacy.csproj.GenerateResource.cache
+C:\Users\Damian\Documents\Visual Studio\AntiPrivacy\AntiPrivacy\obj\Debug\AntiPrivacy.csproj.CoreCompileInputs.cache
+C:\Users\Damian\Documents\Visual Studio\AntiPrivacy\AntiPrivacy\obj\Debug\AntiPrivacy.csproj.CopyComplete
+C:\Users\Damian\Documents\Visual Studio\AntiPrivacy\AntiPrivacy\obj\Debug\AntiPrivacy.exe
+C:\Users\Damian\Documents\Visual Studio\AntiPrivacy\AntiPrivacy\obj\Debug\AntiPrivacy.pdb
+C:\Users\Damian\Documents\Visual Studio\AntiPrivacy\AntiPrivacy\obj\Debug\AntiPrivacy.Login.resources
